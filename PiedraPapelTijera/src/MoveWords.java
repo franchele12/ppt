@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//
 public class MoveWords{
 
     public static final int EMPATE = 0;
